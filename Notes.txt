@@ -1,0 +1,13 @@
+=>fonts  =>weight
+Peralta    400
+Poppins    700
+poppins    500
+poppins    400
+poppins    600
+Montserrat 400
+
+colors
+background blue: #4B40C5;
+background orange: #EC682C;
+background white: #FFFFFF ;
+
